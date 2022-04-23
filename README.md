@@ -21,8 +21,8 @@
   * enter thread (the bigger number is, the slower your computer will turn)
 ```
 
-```
-
 ##  Tip me:
+```
 TikTok - @YtJodd
 My Ltc - LdZSsgHXhEZo2TUYbEJ1kRp9bUfsJquVdS
+```
