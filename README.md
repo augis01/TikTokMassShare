@@ -24,5 +24,5 @@
 ```
 
 ##  Tip me:
- <br>TikTok - @YtJodd
- <br>My Ltc - LdZSsgHXhEZo2TUYbEJ1kRp9bUfsJquVdS
+TikTok - @YtJodd
+My Ltc - LdZSsgHXhEZo2TUYbEJ1kRp9bUfsJquVdS
