@@ -31,5 +31,6 @@
 ##  Tip me:
 ```js
 TikTok - @YtJodd
+Youtube - JoddYoutube
 My Ltc - LdZSsgHXhEZo2TUYbEJ1kRp9bUfsJquVdS
 ```
