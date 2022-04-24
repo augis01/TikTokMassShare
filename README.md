@@ -11,6 +11,7 @@
 ```
   * download and install latest python (https://www.python.org/downloads/)
   * pip install requests pystyle (type it in administrator cmd)
+  * pip install pyfiglet
 ```
 
 ##  Usage:
