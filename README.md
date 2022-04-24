@@ -20,7 +20,7 @@
   * paste video url
   * choose amount
   * enter thread (the bigger number is, the slower your computer will turn)
-```js
+```
 
 ##  Tip me:
 ```js
