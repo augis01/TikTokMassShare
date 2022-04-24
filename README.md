@@ -8,22 +8,22 @@
 ```
 
 ## Installation
-```
+```js
   * download and install latest python (https://www.python.org/downloads/)
   * pip install requests pystyle (type it in administrator cmd)
   * pip install pyfiglet
 ```
 
 ##  Usage:
-```
+```js
   * open python (TikTokShares.py)
   * paste video url
   * choose amount
   * enter thread (the bigger number is, the slower your computer will turn)
-```
+```js
 
 ##  Tip me:
-```
+```js
 TikTok - @YtJodd
 My Ltc - LdZSsgHXhEZo2TUYbEJ1kRp9bUfsJquVdS
 ```
