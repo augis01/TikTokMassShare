@@ -1,5 +1,10 @@
 <h1 align="center">TikTok mass shares</h1>
 
+## Youtube Tutorial
+``` js
+https://youtu.be/AlRhgLSr0Ss
+```
+
 ## Features
 ```js
   * MASS shares (you can do a lot of shares)
