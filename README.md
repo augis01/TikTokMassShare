@@ -28,7 +28,7 @@
   * enter thread (the bigger number is, the slower your computer will turn)
 ```
 
-##  Tip me:
+##  My credits:
 ```js
 TikTok - @YtJodd
 Youtube - JoddYoutube
