@@ -1,5 +1,5 @@
 <h1 align="center">Xerty
- mass tiktok shares bot
+<h1 align="center">mass tiktok shares bot
 
 ## Youtube Tutorial
 ``` js
