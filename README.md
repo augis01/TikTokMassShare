@@ -17,7 +17,7 @@
 ```js
   * download and install latest python (https://www.python.org/downloads/)
 
-  * use tools installer.bat or type these:
+  * use "tools installer.bat" or type these:
 
      pip install requests pystyle
      pip install pyfiglet (type it in administrator cmd)
