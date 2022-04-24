@@ -1,4 +1,4 @@
-<h1 align="center">TikTok mass shares</h1>
+<h1 align="center">Xerty/h1>
 
 ## Youtube Tutorial
 ``` js
